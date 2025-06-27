@@ -1,0 +1,7 @@
+[build]
+  publish = "dist"          # folder that contains final HTML/CSS/JS
+  command = "npm run build" # your build command (use "" if no build)
+
+[dev]
+  command = "npm run dev"
+  
